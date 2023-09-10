@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473389403752",
+    "project_id": "people-in-space-now",
+    "storage_bucket": "people-in-space-now.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473389403752:android:13ca8c6f8ce0f1ff01b5dd",
+        "android_client_info": {
+          "package_name": "com.darshankomu.people_in_space_now"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsHNYBW5lmbVfDIHrnzSxMEZVoLbkJjfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
